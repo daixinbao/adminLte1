@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adminLte.iml" filepath="$PROJECT_DIR$/adminLte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmbiz/mmbiz.iml" filepath="$PROJECT_DIR$/mmbiz/mmbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmsrv/mmsrv.iml" filepath="$PROJECT_DIR$/mmsrv/mmsrv.iml" />
+    </modules>
+  </component>
+</project>
